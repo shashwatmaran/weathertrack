@@ -6,18 +6,18 @@ A clean, minimal weather app built with React and TypeScript. Search any city in
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔍 **City Search** — Debounced autocomplete powered by the Open-Meteo Geocoding API
-- 🌡️ **Current Conditions** — Temperature, feels-like, humidity, wind speed, and pressure
-- 📅 **5-Day Forecast** — Daily high/low with a visual temperature range bar
-- 🎨 **Dynamic Gradients** — Background changes based on current weather conditions (sunny, cloudy, rainy, snowy, etc.)
-- 💎 **Glassmorphism UI** — Frosted-glass cards with smooth Framer Motion animations
-- 📱 **Responsive** — Works on all screen sizes
+-  **City Search** — Debounced autocomplete powered by the Open-Meteo Geocoding API
+-  **Current Conditions** — Temperature, feels-like, humidity, wind speed, and pressure
+-  **5-Day Forecast** — Daily high/low with a visual temperature range bar
+-  **Dynamic Gradients** — Background changes based on current weather conditions (sunny, cloudy, rainy, snowy, etc.)
+-  **Glassmorphism UI** — Frosted-glass cards with smooth Framer Motion animations
+-  **Responsive** — Works on all screen sizes
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -34,7 +34,7 @@ A clean, minimal weather app built with React and TypeScript. Search any city in
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -76,7 +76,7 @@ npm run preview
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Run tests once
@@ -88,7 +88,7 @@ npm run test:watch
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 weathertrack-main/
@@ -115,7 +115,7 @@ weathertrack-main/
 
 ---
 
-## ⚙️ CI/CD
+## CI/CD
 
 This project includes a **Jenkinsfile** that defines a two-stage pipeline:
 
@@ -126,7 +126,7 @@ On success, built JavaScript artifacts are archived with fingerprinting for trac
 
 ---
 
-## 🌐 API
+## API
 
 WeatherTrack uses two endpoints from [Open-Meteo](https://open-meteo.com/) — completely free with no API key:
 
@@ -137,6 +137,6 @@ WeatherTrack uses two endpoints from [Open-Meteo](https://open-meteo.com/) — c
 
 ---
 
-## 📄 License
+## License
 
 This project is open source. Feel free to use, modify, and distribute it.
